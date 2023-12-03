@@ -3,7 +3,40 @@ No Mercy: Rehab is a reworking of the classic No Mercy campaign from the origina
 
 This GitHub page provides an easy way to distribute the addon and changelogs to server hosts and players without using the Steam Workshop or Gamemaps.
 
+# Latest Version: V5 (2023/12/03)
+
 # Changelog
+## Version 5 - 2023/12/03
+### All Maps
+	Fixed various lighting and texture issues
+	Removed custom population file for compatibility, now using default No Mercy populations
+
+### Map 1
+	Adjusted item density on campaign mode
+	Fixed a collision issue with the table in the starting saferoom
+	Removed the window facing into the shipping area
+	Adjusted liquor store layout
+	Adjusted store warehouse layout
+	Adjusted diner visuals
+	Adjusted subway layout
+
+### Map 2
+	Adjusted item density on campaign mode
+	Added a respawn closet by the event
+	Adjusted a train car in the subway
+	Added a train car in the subway
+	Adjusted control room layout
+	Added an infected ladder to climb over the train blocking the subway exit
+
+### Map 3
+	Slightly increased the delay before the horde starts after blowing up the gas station
+	Reduced event duration by 10 seconds
+	Adjusted gas station layout
+
+### Map 4
+	Adjusted viewing platform in the lower floor atrium
+	Adjusted the area after the elevator
+
 ## Version 4 - 2023/06/17
 ### All Maps
 	Updated all soundscapes (ambient sounds)
